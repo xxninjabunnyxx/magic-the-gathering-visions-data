@@ -1,0 +1,115 @@
+---
+object: card
+id: 4dbf9bf9-75cd-4b25-a3a1-43b7e029700b
+oracle_id: 67a3541c-8408-40c8-b44f-90035b860f57
+multiverse_ids:
+- 3644
+mtgo_id: 7633
+mtgo_foil_id: 7634
+tcgplayer_id: 5882
+cardmarket_id: 8438
+name: Man-o'-War
+lang: en
+released_at: '1997-02-03'
+uri: https://api.scryfall.com/cards/4dbf9bf9-75cd-4b25-a3a1-43b7e029700b
+scryfall_uri: https://scryfall.com/card/vis/37/man-o-war?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/4/d/4dbf9bf9-75cd-4b25-a3a1-43b7e029700b.jpg?1562277656
+  normal: https://cards.scryfall.io/normal/front/4/d/4dbf9bf9-75cd-4b25-a3a1-43b7e029700b.jpg?1562277656
+  large: https://cards.scryfall.io/large/front/4/d/4dbf9bf9-75cd-4b25-a3a1-43b7e029700b.jpg?1562277656
+  png: https://cards.scryfall.io/png/front/4/d/4dbf9bf9-75cd-4b25-a3a1-43b7e029700b.png?1562277656
+  art_crop: https://cards.scryfall.io/art_crop/front/4/d/4dbf9bf9-75cd-4b25-a3a1-43b7e029700b.jpg?1562277656
+  border_crop: https://cards.scryfall.io/border_crop/front/4/d/4dbf9bf9-75cd-4b25-a3a1-43b7e029700b.jpg?1562277656
+mana_cost: "{2}{U}"
+cmc: 3.0
+type_line: Creature — Jellyfish
+oracle_text: When Man-o'-War enters the battlefield, return target creature to its
+  owner's hand.
+power: '2'
+toughness: '2'
+colors:
+- U
+color_identity:
+- U
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: legal
+  gladiator: legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 2c32f1a9-7921-4826-bea0-80bbac70532c
+set: vis
+set_name: Visions
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/2c32f1a9-7921-4826-bea0-80bbac70532c
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Avis&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/vis?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/4dbf9bf9-75cd-4b25-a3a1-43b7e029700b/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A67a3541c-8408-40c8-b44f-90035b860f57&unique=prints
+collector_number: '37'
+digital: false
+rarity: common
+flavor_text: |-
+  "Beauty to the eye does not always translate to the touch."
+  —Naimah, Femeref philosopher
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Jon J Muth
+artist_ids:
+- 32e6b862-3f86-4408-a351-fe4edef5e7b2
+illustration_id: df411fa7-63c2-4243-a970-44c1884532c5
+border_color: black
+frame: '1997'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 4540
+penny_rank: 1762
+prices:
+  usd: '0.20'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.02'
+  eur_foil: 
+  tix: '0.04'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3644
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Man-o%27-War&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Man-o%27-War&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Man-o%27-War
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/5882?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Man-o%27-War&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/7633?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

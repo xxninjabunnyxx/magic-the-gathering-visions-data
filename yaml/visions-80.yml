@@ -1,0 +1,113 @@
+---
+object: card
+id: 6ee791d5-1d48-40e8-b65f-b6aa889f3467
+oracle_id: 792e1072-00bf-4f63-b956-5f20cdf09f11
+multiverse_ids:
+- 3687
+mtgo_id: 7567
+mtgo_foil_id: 7568
+tcgplayer_id: 5849
+cardmarket_id: 8481
+name: Goblin Recruiter
+lang: en
+released_at: '1997-02-03'
+uri: https://api.scryfall.com/cards/6ee791d5-1d48-40e8-b65f-b6aa889f3467
+scryfall_uri: https://scryfall.com/card/vis/80/goblin-recruiter?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/6/e/6ee791d5-1d48-40e8-b65f-b6aa889f3467.jpg?1562277683
+  normal: https://cards.scryfall.io/normal/front/6/e/6ee791d5-1d48-40e8-b65f-b6aa889f3467.jpg?1562277683
+  large: https://cards.scryfall.io/large/front/6/e/6ee791d5-1d48-40e8-b65f-b6aa889f3467.jpg?1562277683
+  png: https://cards.scryfall.io/png/front/6/e/6ee791d5-1d48-40e8-b65f-b6aa889f3467.png?1562277683
+  art_crop: https://cards.scryfall.io/art_crop/front/6/e/6ee791d5-1d48-40e8-b65f-b6aa889f3467.jpg?1562277683
+  border_crop: https://cards.scryfall.io/border_crop/front/6/e/6ee791d5-1d48-40e8-b65f-b6aa889f3467.jpg?1562277683
+mana_cost: "{1}{R}"
+cmc: 2.0
+type_line: Creature — Goblin
+oracle_text: When Goblin Recruiter enters the battlefield, search your library for
+  any number of Goblin cards, reveal them, then shuffle and put those cards on top
+  in any order.
+power: '1'
+toughness: '1'
+colors:
+- R
+color_identity:
+- R
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: banned
+  pauper: not_legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: restricted
+  duel: legal
+  oldschool: not_legal
+  premodern: banned
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 2c32f1a9-7921-4826-bea0-80bbac70532c
+set: vis
+set_name: Visions
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/2c32f1a9-7921-4826-bea0-80bbac70532c
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Avis&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/vis?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/6ee791d5-1d48-40e8-b65f-b6aa889f3467/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A792e1072-00bf-4f63-b956-5f20cdf09f11&unique=prints
+collector_number: '80'
+digital: false
+rarity: uncommon
+flavor_text: '"Next!"'
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Scott Kirschner
+artist_ids:
+- a9199ae8-9891-4366-bf5b-42cfb662d840
+illustration_id: c5712395-faf8-4038-b323-f6ecdef3ece0
+border_color: black
+frame: '1997'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 2649
+prices:
+  usd: '7.08'
+  usd_foil: 
+  usd_etched: 
+  eur: '4.87'
+  eur_foil: 
+  tix: '0.39'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3687
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Goblin+Recruiter&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Goblin+Recruiter&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Goblin+Recruiter
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/5849?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Goblin+Recruiter&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/7567?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
